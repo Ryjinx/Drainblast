@@ -43,13 +43,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/service/24-7-emergency-gas-plumbing/</loc>
-		<lastmod>2026-09-27T06:35:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-10-e1790435630805.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/service/drain-camera-service/</loc>
 		<lastmod>2026-09-27T06:36:03+00:00</lastmod>
 		<image:image>
@@ -61,6 +54,13 @@
 		<lastmod>2026-09-27T06:49:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/09/Frame-2-1-2-e1790435452796.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/tree-root-drain-repairs/</loc>
+		<lastmod>2026-09-28T15:16:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/Frame-10-e1790435630805.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
