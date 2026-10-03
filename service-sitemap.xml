@@ -22,45 +22,45 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/service/blocked-drain-stormwater/</loc>
-		<lastmod>2026-09-27T06:32:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-6-e1790435541983.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/service/blocked-toilet/</loc>
-		<lastmod>2026-09-27T06:33:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-7-e1790435567378.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/service/blocked-drain-repairs/</loc>
-		<lastmod>2026-09-27T06:34:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-8-e1790435589231.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/service/drain-camera-service/</loc>
-		<lastmod>2026-09-27T06:36:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-9-e1790435608864.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/service/24-7-emergency-gas-plumbing-services/</loc>
-		<lastmod>2026-09-27T06:49:50+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Frame-2-1-2-e1790435452796.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/service/tree-root-drain-repairs/</loc>
 		<lastmod>2026-09-28T15:16:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/09/Frame-10-e1790435630805.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/blocked-drain-stormwater/</loc>
+		<lastmod>2026-10-03T11:58:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/image-17.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/drain-camera-service/</loc>
+		<lastmod>2026-10-03T11:59:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/image-13.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/24-7-emergency-gas-plumbing-services/</loc>
+		<lastmod>2026-10-03T11:59:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/image-10.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/blocked-toilet/</loc>
+		<lastmod>2026-10-03T12:00:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/image-11-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/service/blocked-drain-repairs/</loc>
+		<lastmod>2026-10-03T12:00:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/image-12-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
